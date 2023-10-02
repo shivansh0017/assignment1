@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#i1{
+    margin-bottom: 10px;
+}
+
+#i1, #i2 {
+    width: 20%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+input#btn1 {
+    font-weight: 600;
+    background-color: #08ba58;
+    color: white;
+    padding: 10px;
+    border: none;
+    width: 20%;
+}
+
+input#btn2 {
+    font-weight: 600;
+    color: white;
+    width: auto;
+    padding: 10px 18px;
+    background-color: #f44336;
+    border: none;
+    border-radius: 5px;
+}
+
+a.forgot{
+    color: black;
+}
+span.forgot { 
+    padding-top: 10px;
+}

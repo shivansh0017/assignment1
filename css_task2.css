@@ -1,0 +1,21 @@
+.c1{
+    list-style: none;
+    width: 100px;
+    border: 1px black solid;
+    padding: 5px 5px 0px 5px;
+}
+
+.c2{
+    list-style: none;
+    width: 400px;
+    border: 1px black solid;
+    padding: 5px 5px 0px 5px;
+}
+
+.c3{
+    display: inline;
+}
+
+td{
+    padding: 10px;
+}

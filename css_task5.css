@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(226, 216, 83);
+}
+
+#content{
+    color: purple;
+    margin-left: 200px;
+}
+
+.c1{
+    position: absolute;
+    left: 20px;
+    transition: 0.3s;
+    padding: 10px;
+    width: 100px;
+    height: 10px;
+    border-right: 18px solid black;
+    font-size: 18px;
+
+}
+
+#nav div{
+    background-color: white;
+}
+
+#nav div:hover {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+
+#i1{
+    top: 40px;
+}
+  
+#i2 {
+    top: 80px;
+}
+  
+#i3{
+    top: 120px;
+}
+  
+#i4{
+    top: 160px;
+}
